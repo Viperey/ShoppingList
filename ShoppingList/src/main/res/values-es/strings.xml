@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mi lista de la compra</string>
+    <string name="my_list">Mi lista</string>
+    <string name="my_shopping_list">Lista de la compra</string>
+    <string name="history">Historial</string>
+    <string name="unreachable_menu">Menu inalcanzable</string>
+    <string name="add_new_item">Añade un nuevo artículo</string>
+    <string name="buy_air">¿Acaso piensas comprar aire?</string>
+    <string name="action_remove">Eliminar</string>
+    <string name="delete">Eliminar</string>
+    <string name="accept">Aceptar</string>
+    <string name="edit">Editar</string>
+    <string name="add">Añadir</string>
+    <string name="done">Hecho</string>
+    <string name="back">Atrás</string>
+    <string name="swipe_right">Desplázate a la derecha para acceder a tu historial</string>
+    <string name="callback_error"> must implement AddingItemToListCallback</string>
+    <string name="item_added"> fue añadido a tu lista de la compra.</string>
+    <string name="history_advice">Pulsa sobre cualquier artículo para añadirlo a tu lista de la compra</string>
+    <string name="callback_error2"> must implement AddingItemToListCallback</string>
+    <string name="duplicated_item">Artículo duplicado</string>
+    <string name="already_list">Ya tienes ese artículo en tu lista</string>
+
+</resources>

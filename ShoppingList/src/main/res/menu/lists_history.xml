@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="es.DenNonDos.Shoppinglist.Views.Activities.ListsPager" >
+
+    <item
+        android:id="@+id/back"
+        android:title="@string/back"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_action_undo"
+        android:showAsAction="ifRoom" />
+</menu>

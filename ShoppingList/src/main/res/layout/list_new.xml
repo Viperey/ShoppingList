@@ -1,0 +1,23 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    tools:context="es.DenNonDos.Shoppinglist.Views.Activities.ListsPager$PlaceholderFragment">
+
+    <EditText
+        android:id="@+id/item_input"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:lines="1"
+        android:inputType="textCapSentences"
+        android:hint="@string/add_new_item"
+        android:imeActionLabel="@string/add"
+        android:visibility="gone"
+    />
+    <ListView
+        android:layout_below="@id/item_input"
+        android:id="@+id/list_view"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent" />
+</RelativeLayout>
