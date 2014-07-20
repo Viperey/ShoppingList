@@ -22,5 +22,6 @@
     <string name="callback_error2"> must implement AddingItemToListCallback</string>
     <string name="duplicated_item">Artículo duplicado</string>
     <string name="already_list">Ya tienes ese artículo en tu lista</string>
+    <string name="my_shopping_list_widget">Widget de Mi lista de la compra</string>
 
 </resources>

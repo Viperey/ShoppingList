@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/viperey/Dropbox/Proyectos/Propio/ShoppingList/ShoppingList/build/intermediates/pre-dexed/debug/library-2.6.0-12d3f5479beba98ab6cebae1c6e830c9bb2d297c.jar"
+        jar="/home/viperey/.gradle/caches/modules-2/files-2.1/com.nhaarman.listviewanimations/library/2.6.0/59351ccb0a1631d30358f6a92749a072f2df7602/library-2.6.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="59351ccb0a1631d30358f6a92749a072f2df7602"/>
+    <item
+        dex="/home/viperey/Dropbox/Proyectos/Propio/ShoppingList/ShoppingList/build/intermediates/pre-dexed/debug/library-2.4.0-b828409be5727d0471c4f4299fcbdf84d455fc03.jar"
+        jar="/home/viperey/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb"/>
+    <item
+        dex="/home/viperey/Dropbox/Proyectos/Propio/ShoppingList/ShoppingList/build/intermediates/pre-dexed/debug/support-v13-19.0.1-ccb1cbe116af3b443affa73225457cf14761d311.jar"
+        jar="/home/viperey/android-sdk-linux/extras/android/m2repository/com/android/support/support-v13/19.0.1/support-v13-19.0.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="a4d00c1fa39c05a544fc2221af40bbf76e07c7df"/>
+    <item
+        dex="/home/viperey/Dropbox/Proyectos/Propio/ShoppingList/ShoppingList/build/intermediates/pre-dexed/debug/gson-2.2.4-95997e7afb884389fb5e613289193e242ad8e1b8.jar"
+        jar="/home/viperey/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.2.4/a60a5e993c98c864010053cb901b7eab25306568/gson-2.2.4.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568"/>
+    <item
+        dex="/home/viperey/Dropbox/Proyectos/Propio/ShoppingList/ShoppingList/build/intermediates/pre-dexed/debug/butterknife-4.0.1-b4fe7bfa51a8e9eea4797e81900cf6b545e32b6b.jar"
+        jar="/home/viperey/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife/4.0.1/f43b36925363701633d01adb8e54df7150397a78/butterknife-4.0.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="f43b36925363701633d01adb8e54df7150397a78"/>
+    <item
+        dex="/home/viperey/Dropbox/Proyectos/Propio/ShoppingList/ShoppingList/build/intermediates/pre-dexed/debug/support-v4-19.0.1-c82d249ab9eb61bd92693dd86f20c361831995aa.jar"
+        jar="/home/viperey/android-sdk-linux/extras/android/m2repository/com/android/support/support-v4/19.0.1/support-v4-19.0.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="587da9a481ffd341d2fa091704489b89845ddacd"/>
+
+</pre-dex-items>
